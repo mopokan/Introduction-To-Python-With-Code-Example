@@ -13,3 +13,23 @@ c = b // a; #การหารแต่ตัดส่วนที่เป็�
 c = a % b; #การหารเอาเศษด้วยเลขเครื่องหมาย % (Output = 10)
 c = b ** a; #การยกกำลังด้วยเลขเครื่องหมาย **
 
+# Comparison
+a < b
+a <= b
+a > b
+a >= b
+a == b
+a != b
+a is b
+a is not b
+
+# Logical
+a and b
+a or b
+not a
+
+if (user == 'Example' and password == '1234'): #Example
+    print('logged in.')
+else:
+    print('Invalid username or password.')
+    
